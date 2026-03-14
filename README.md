@@ -24,7 +24,7 @@ video link:-https://youtu.be/UunWJIO-jcY
 
 ```bash
 git clone <repository-url>
-cd TeamTejas-179
+cd EchoFinds
 ```
 
 ### 2. Set up the environment
